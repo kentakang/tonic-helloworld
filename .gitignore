@@ -110,4 +110,6 @@ fabric.properties
 # will have compiled files and executables
 /target/
 
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/rust,intellij
